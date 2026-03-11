@@ -1,16 +1,16 @@
 <div align="center">
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:001a0e,70:003322,100:00ff9d&height=220&section=header&text=BLAZE-X0009&fontSize=72&fontColor=00ff9d&fontAlignY=40&desc=Cybersecurity%20%7C%20Malware%20Analyst%20%7C%20Memory%20Forensics&descAlignY=60&descSize=18&descColor=88ffcc&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:001a0e,70:003322,100:00ff9d&height=220&section=header&text=BLAZE-X00001&fontSize=72&fontColor=00ff9d&fontAlignY=40&desc=Cybersecurity%20%7C%20Malware%20Analyst%20%7C%20Memory%20Forensics&descAlignY=60&descSize=18&descColor=88ffcc&animation=fadeIn"/>
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=%E2%9A%A1+Advanced+Cybersecurity+Toolmaker;%F0%9F%A7%A0+Malware+Analyst+%26+Reverse+Engineer;%F0%9F%94%AC+Volatility+3+Memory+Forensics+Expert;%F0%9F%A6%80+Rust+Evasion+Techniques+Builder;%F0%9F%A4%96+AI-Driven+Malware+Sandbox+Creator" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=BLAZE-X0009&label=PROFILE+VIEWS&color=00ff9d&style=for-the-badge&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=BLAZE-X00001&label=PROFILE+VIEWS&color=00ff9d&style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/BLAZE-X0009?label=FOLLOWERS&style=for-the-badge&color=00ff9d&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/followers/BLAZE-X00001?label=FOLLOWERS&style=for-the-badge&color=00ff9d&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff9d?style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
@@ -27,11 +27,11 @@
 <img align="right" width="290" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRhanB4ZTc4c2VkN2s2dWZxcmF0dXR2NmQ5NTllejZqdzM1bWc0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMOTcqOtaEkXiBonLU/giphy.gif"/>
 
 ```zsh
-┌──(BLAZE-X0009㉿cyber-lab)-[~/arsenal]
+┌──(BLAZE-X00001㉿cyber-lab)-[~/arsenal]
 └─$ whoami --verbose
 ```
 ```yaml
-  Name        :  BLAZE-X0009
+  Name        :  BLAZE-X00001
   Role        :  Advanced Cybersecurity Toolmaker
   Specialty   :  Malware Analysis · Memory Forensics · RE
   Current     :  AI-Driven Malware Sandbox [WIP]
@@ -172,13 +172,13 @@ Complete arsenal of low-level security tools built for authorized research and e
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=BLAZE-X0009&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ff9d&icon_color=00ff9d&text_color=88ffcc"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=BLAZE-X00001&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ff9d&icon_color=00ff9d&text_color=88ffcc"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLAZE-X0009&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff9d&text_color=88ffcc&langs_count=8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLAZE-X00001&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff9d&text_color=88ffcc&langs_count=8"/>
 
 <br/>
 
-<img width="68%" src="https://streak-stats.demolab.com/?user=BLAZE-X0009&theme=dark&hide_border=true&background=0D1117&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&sideLabels=88ffcc&dates=444444&sideNums=00ff9d&stroke=00ff9d33"/>
+<img width="68%" src="https://streak-stats.demolab.com/?user=BLAZE-X00001&theme=dark&hide_border=true&background=0D1117&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&sideLabels=88ffcc&dates=444444&sideNums=00ff9d&stroke=00ff9d33"/>
 
 <br/><br/>
 
@@ -199,7 +199,7 @@ Complete arsenal of low-level security tools built for authorized research and e
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BLAZE-X0009&bg_color=0d1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6&custom_title=BLAZE-X0009%20%E2%80%94%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BLAZE-X00001&bg_color=0d1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6&custom_title=BLAZE-X00001%20%E2%80%94%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -214,7 +214,7 @@ Complete arsenal of low-level security tools built for authorized research and e
   <img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/BLAZE-X0009">
+<a href="https://github.com/BLAZE-X00001">
   <img src="https://img.shields.io/badge/GitHub-BLAZE--X0009-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;&nbsp;
